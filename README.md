@@ -1,4 +1,4 @@
-# Python for Everybody Specialization - University-of-Michigan
+# Python for Everybody Specialization - University of Michigan
  Coursera - Online Courses Learning
  
 About this Specialization:
